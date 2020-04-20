@@ -11,7 +11,7 @@ Para lenguaje C lo vamos a guardar en hello.c, con este texto:
 
     #include <stdio.h>
     int main(void){
-    printf("Hello, Mundo!\n");
+    printf("Hello, World!\n");
     }
    Para lenguaje C++ lo vamos a guardar en hello.cpp, con este texto:
 
