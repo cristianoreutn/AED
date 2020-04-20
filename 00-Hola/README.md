@@ -19,3 +19,24 @@ Para lenguaje C lo vamos a guardar en hello.c, con este texto:
     int main() {
         std::cout << "Hello, World!\n";
     }
+
+**Preparación del Entorno de Desarrollo**
+
+Plataforma: Windows 10 64 Bit 
+Compilador: MinGw (Requiere configuración de los Path "C:\MingGW\bin" y "C:\MinGW\msys\1.0\bin")
+IDE: Visual Studio Code
+
+**Compilación** con *Tasks de Visual Studio Code "Run Build Task"*
+
+Archivo de Salida **Output.txt** desde la terminal CMD con el comando:
+
+    hello.exe >output.txt
+    
+---
+   
+    
+
+
+    
+
+
