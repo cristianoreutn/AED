@@ -1,6 +1,6 @@
 /*
 * Hello World
-* Crear un programa que imprima en pantalla "Hello, World!"
+* Crear un programa que imprima "Hello, World! en pantalla y en un archivo Output.txt"
 * Orellana, Cristian 
 * 20200420
 */
