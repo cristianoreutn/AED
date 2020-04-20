@@ -3,7 +3,7 @@
 * Orellana, Cristian
 ---
 ### 00-Hello
-#### Escribimos Nuestro Primer Programa "Hola Mundo!"
+#### Escribimos Nuestro Primer Programa "Hello, World!"
 Escribimos un programa que diga "Hola, Mundo" para comprobar que nuestro entorno de
 desarrollo está operativo.
 
