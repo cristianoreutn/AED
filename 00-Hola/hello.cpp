@@ -1,6 +1,8 @@
-/* Orellana, Cristian
-* "Hello, World!"
-* 20/04/2020
+/*
+* Hello World
+* Crear un programa que imprima en pantalla "Hello, World!"
+* Orellana, Cristian 
+* 20200420
 */
 
 #include <iostream>
