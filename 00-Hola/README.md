@@ -19,6 +19,8 @@ Para lenguaje C lo vamos a guardar en hello.c, con este texto:
     int main() {
         std::cout << "Hello, World!\n";
     }
+    
+---
 
 **Preparación del Entorno de Desarrollo**
 
