@@ -60,5 +60,9 @@ Por Terminal CMD
 
     C:\UTN\Codigo>make adicion
     g++ -std=c++17    adicion.cpp   -o adicion
-    
----
+
+**Ejecución del Programa**
+
+Por Terminal CMD
+
+    C:\UTN\Codigo>adicion.exe
