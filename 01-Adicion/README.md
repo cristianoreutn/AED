@@ -14,7 +14,7 @@ Definimos el dominio de la funcion para los dos tipos de datos de entrada: **a, 
 
 ### Modelo IPO
 
-![IPO](https://github.com/cristianoreutn/AED/01-Adicion/PNG/ipo.png)
+![IPO](https://github.com/cristianoreutn/AED/blob/master/01-Adicion/PNG/IPO.png)
 
 para comprobar que nuestro entorno 
 desarrollo está operativo.
