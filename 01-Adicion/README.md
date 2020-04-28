@@ -12,9 +12,13 @@ Definimos el dominio de la funcion para los dos tipos de datos de entrada: **a, 
 * Leer un entero y almacenarlo en **b**
 * Mostrar en pantalla **a+b**
 
+---
+
 ### Modelo IPO
 
 ![IPO](https://github.com/cristianoreutn/AED/blob/master/01-Adicion/PNG/IPO.png)
+
+---
 
 ### Algoritmo Textual C++:
 
@@ -40,8 +44,9 @@ Definimos el dominio de la funcion para los dos tipos de datos de entrada: **a, 
         
   ### Algoritmo Visual Diagrama de Flujo Estandard ISO 5807
   
-  ![FLUJO](https://github.com/cristianoreutn/AED/blob/master/01-Adicion/PNG/FLUJO.JPG)
+  ![Diagrama](https://github.com/cristianoreutn/AED/blob/master/01-Adicion/PNG/Diagrama.jpg)
   
+---
     
  **Preparación del Entorno de Desarrollo**
 
@@ -49,10 +54,11 @@ Plataforma: Windows 10 64 Bit
 Compilador: MinGw (Requiere configuración de los Path "C:\MingGW\bin" y "C:\MinGW\msys\1.0\bin")
 IDE: Visual Studio Code
 
-**Compilación** con *Tasks de Visual Studio Code "Run Build Task"*
+**Compilación C++** 
 
-Archivo de Salida **Output.txt** desde la terminal CMD con el comando:
+Por Terminal CMD 
 
-    hello.exe >output.txt
+    C:\UTN\Codigo>make adicion
+    g++ -std=c++17    adicion.cpp   -o adicion
     
 ---
