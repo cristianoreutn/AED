@@ -6,9 +6,14 @@
 #### Mostrar la suma de dos números enteros que ingresa el usuario.
 Escribimos un programa en el lenguaje C++ que al ejecutar de como resultado la suma de dos numeros enteros.
 
-Definimos el dominio de la funcion para los dos tipos de datos de entrada **a y b ϵ Z**
+Definimos el dominio de la funcion para los dos tipos de datos de entrada ** a, b ϵ Z **
 
-para comprobar que nuestro entorno de
+* Leer un entero y almacenarlo en **a**
+* Leer un entero y almacenarlo en **b**
+* Mostrar en pantalla **a+b**
+
+
+para comprobar que nuestro entorno 
 desarrollo está operativo.
 
 Para lenguaje C lo vamos a guardar en hello.c, con este texto:
