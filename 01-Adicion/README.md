@@ -16,25 +16,34 @@ Definimos el dominio de la funcion para los dos tipos de datos de entrada: **a, 
 
 ![IPO](https://github.com/cristianoreutn/AED/blob/master/01-Adicion/PNG/IPO.png)
 
-para comprobar que nuestro entorno 
-desarrollo está operativo.
+### Algoritmo Textual C++:
 
-Para lenguaje C lo vamos a guardar en hello.c, con este texto:
-
-    #include <stdio.h>
-    int main(void){
-    printf("Hello, World!\n");
-    }
-   Para lenguaje C++ lo vamos a guardar en hello.cpp, con este texto:
+    /*
+    * Adición
+    * "Solicitar dos números enteros por teclado, y como resultado, imprimir en pantalla la suma"  
+    * Orellana, Cristian 
+    * 20200420
+    */
 
     #include <iostream>
-    int main() {
-        std::cout << "Hello, World!\n";
-    }
-    
----
 
-**Preparación del Entorno de Desarrollo**
+    int main() {
+        int a; int b;int suma
+        std::cout << "Ingresar un numero entero\n";
+        std::cin >> a;
+        std::cout << "Ingresar otro numero entero\n";
+        std::cin >> b;
+        suma=a+b;
+        std::cout << "La suma es ";
+        std::cout <<suma;
+        }
+        
+  ### Algoritmo Visual Diagrama de Flujo Estandard ISO 5807
+  
+  ![FLUJO](https://github.com/cristianoreutn/AED/blob/master/01-Adicion/PNG/FLUJO.JPG)
+  
+    
+ **Preparación del Entorno de Desarrollo**
 
 Plataforma: Windows 10 64 Bit 
 Compilador: MinGw (Requiere configuración de los Path "C:\MingGW\bin" y "C:\MinGW\msys\1.0\bin")
