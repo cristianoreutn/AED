@@ -2,7 +2,7 @@
 * Legajo 1188665
 * Orellana, Cristian
 ---
-### 00-Adición
+### 01-Adición
 #### Mostrar la suma de dos números enteros que ingresa el usuario.
 Escribimos un programa en el lenguaje C++ que al ejecutar de como resultado la suma de dos numeros enteros.
 
