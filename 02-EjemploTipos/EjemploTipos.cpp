@@ -12,6 +12,7 @@
 #include <cassert> //libreria necesaria para utilizar la función assert
 #include <string> // para mostrar ejemplos con cadenas de caracteres
 
+
 int main() {
             int N1=10,N2=2; 
             std::cout << "Tipo de Dato Entero, ejemplo de operaciones matematicas basicas\n\t";
@@ -48,16 +49,16 @@ int main() {
 
 //Ejemplo con tipo Char (Caracteres)
             
-            double char1="A",char2="B"; 
+            char char1='A',char2='B'; 
             std::cout << "Tipo de Dato Char\n\t";
             std::cout << "Caracter1: "<<char1 <<"\n\t"; 
             std::cout << "Caracter2: "<<char2 <<"\n";       
 
 //Ejemplo con tipo String (Cadena de Caracteres)
             
-            string Nombre="Cristian",Apellido="Orellana"; 
+            std::string Nombre="Cristian",Apellido="Orellana"; 
 
             std::cout << "Tipo de Dato String, concatenación de cadenas\n\t";
-            std::cout << Nombre<<Apellido <<"\n"; 
+            std::cout << Nombre <<Apellido <<"\n"; 
                      
 }
