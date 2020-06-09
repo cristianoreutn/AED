@@ -25,9 +25,10 @@ El año a determinar tiene que ser mayor o igual al numero 1584, que representa 
     p ^(-q v r)
 
 En resumen, para establecer si un año dado es bisiesto: 
-*Es bisiesto si es divisible entre cuatro y (no es divisible entre 100 o es divisible entre 400).
+Tiene que ser mayor o igual a 1584, divisible entre cuatro y (no es divisible entre 100 o es divisible entre 400).
 
 ### Diseño de la Solución:
 
+Lexico:
 
 
