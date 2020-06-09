@@ -29,6 +29,5 @@ Tiene que ser mayor o igual a 1584, divisible entre cuatro y (no es divisible en
 
 ### Diseño de la Solución:
 
-Lexico:
-
+### Léxico:
 
