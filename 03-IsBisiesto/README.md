@@ -8,7 +8,7 @@
 Dado un año, determinar si es bisiesto. Demostrando el uso de operadores Booleanos y expresiones complejas.
 
 ### Hipotesis y Refinamiento del problema:
-El año a determinar tiene que ser mayor o igual al numero 1584, que representa el primer año bisiesto por ser divible entre cuatro. Se toma ese valor y se analiza si cumple los siguientes criterios:
+El año a determinar tiene que ser mayor o igual al numero 1584, que representa el primer año bisiesto por ser divisible entre cuatro. Se toma ese valor y se analiza si cumple los siguientes criterios:
 
 * Es bisiesto si es divisible entre 4.
 * Pero no es bisiesto si es divisible entre 100.
@@ -22,8 +22,12 @@ El año a determinar tiene que ser mayor o igual al numero 1584, que representa 
 
 #### Entonces se utiliza la fórmula lógica 
 
-    {\displaystyle p\land \left(\lnot q\lor r\right)} 
+    p ^(-q v r)
 
-para establecer si un año dado es bisiesto: es bisiesto si es divisible entre cuatro y (no es divisible entre 100 o es divisible entre 400).
+En resumen, para establecer si un año dado es bisiesto: 
+*Es bisiesto si es divisible entre cuatro y (no es divisible entre 100 o es divisible entre 400).
+
+### Diseño de la Solución:
+
 
 
