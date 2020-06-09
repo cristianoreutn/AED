@@ -26,12 +26,27 @@ Se toma ese valor y se analiza si cumple los siguientes criterios:
 
     p ^(-q v r)
 
+### Diseño de la Solución:
+
 En resumen, para establecer si un año dado es bisiesto: 
 Tiene que ser mayor o igual a 1584, divisible entre cuatro y (no es divisible entre 100 o es divisible entre 400).
+Formula resultante:
 
-### Diseño de la Solución:
+    o^p ^ (-q v r)
+    
+* o: Es mayor o igual a 1584    
+* p: Es divisible entre 4
+* q: Es divisible entre 100
+* r: Es divisible entre 400
+
+### Arbol de Expresión
+
+ ![Arbol](https://github.com/cristianoreutn/AED/blob/master/03-IsBisiesto/PNG/ArbolExp.JPG)
+    
 
 ### Léxico:
 
  ![Lexico](https://github.com/cristianoreutn/AED/blob/master/03-IsBisiesto/PNG/Lexico2.JPG)
+ 
+
 
