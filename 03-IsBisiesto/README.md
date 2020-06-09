@@ -33,5 +33,5 @@ Tiene que ser mayor o igual a 1584, divisible entre cuatro y (no es divisible en
 
 ### Léxico:
 
- ![Lexico](https://github.com/cristianoreutn/AED/blob/master/03-IsBisiesto/PNG/Lexico.JPG)
+ ![Lexico](https://github.com/cristianoreutn/AED/blob/master/03-IsBisiesto/PNG/Lexico2.JPG)
 
