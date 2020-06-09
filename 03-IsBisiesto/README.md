@@ -5,10 +5,12 @@
 
 ## 03-IsBisiesto
 
-Dado un año, determinar si es bisiesto. Demostrando el uso de operadores Booleanos y expresiones complejas.
+Dado un año, determinar si es bisiesto, demostrando el uso de operadores Booleanos y expresiones complejas.
 
 ### Hipotesis y Refinamiento del problema:
-El año a determinar tiene que ser mayor o igual al numero 1584, que representa el primer año bisiesto por ser divisible entre cuatro. Se toma ese valor y se analiza si cumple los siguientes criterios:
+El año a determinar tiene que ser mayor o igual al numero 1584, que representa el primer año bisiesto por ser divisible entre cuatro y no ser divisible por 100. 
+
+Se toma ese valor y se analiza si cumple los siguientes criterios:
 
 * Es bisiesto si es divisible entre 4.
 * Pero no es bisiesto si es divisible entre 100.
