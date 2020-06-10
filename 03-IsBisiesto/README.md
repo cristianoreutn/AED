@@ -48,5 +48,23 @@ Formula resultante:
 
  ![Lexico](https://github.com/cristianoreutn/AED/blob/master/03-IsBisiesto/PNG/Lexico2.JPG)
  
+---
+    
+ **Preparación del Entorno de Desarrollo**
 
+Plataforma: Windows 10 64 Bit 
+Compilador: MinGw (Requiere configuración de los Path "C:\MingGW\bin" y "C:\MinGW\msys\1.0\bin")
+IDE: Visual Studio Code
+
+**Compilación C++** 
+
+Por Terminal CMD 
+
+    C:\UTN\Codigo>make IsBisiesto
+
+**Ejecución del Programa**
+
+Por Terminal CMD
+
+    C:\UTN\Codigo>IsBisiesto
 
