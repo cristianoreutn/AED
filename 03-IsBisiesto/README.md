@@ -41,7 +41,7 @@ Formula resultante:
 
 ### Arbol de Expresión
 
- ![Arbol](https://github.com/cristianoreutn/AED/blob/master/03-IsBisiesto/PNG/ArbolExp.JPG)
+ ![Arbol](https://github.com/cristianoreutn/AED/blob/master/03-IsBisiesto/PNG/ArbolExpr.JPG)
     
 
 ### Léxico:
