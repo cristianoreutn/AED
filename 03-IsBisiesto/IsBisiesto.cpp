@@ -28,7 +28,8 @@ int main() {
 
 bool IsBisiesto(int x){
 
-        return ((x>=1584) and (x%4==0)) and ((x%100!=0) or (x%400==0));
+        return ((x>=1584) and (x%4==0)) and ((not (x%100==0)) or (x%400==0));
+
 
 }
 
